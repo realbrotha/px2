@@ -1,5 +1,7 @@
 # px2
 
+security dashboard
+
 - **Frontend**: React 19 + Vite + shadcn (Tailwind)
 - **Backend**: Spring Boot 3.4.4, Java 25
 
